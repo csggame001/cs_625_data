@@ -1,0 +1,90 @@
+[
+ {
+   "Column": "Europe and Central Asia",
+   "1995-99 Average": 20,
+   "2011-15 Average": 11,
+   "Column2": "High income Asia and Pacific",
+   "1995-99 Average 2": 33,
+   "2011-15 Average 2": 20,
+   "X": 16.5,
+   "Y-Bar": 0.5,
+   "X-Colum": 0.8
+ },
+ {
+   "Column": "High income Asia and Pacific",
+   "1995-99 Average": 33,
+   "2011-15 Average": 20,
+   "Column2": "North America",
+   "1995-99 Average 2": 22,
+   "2011-15 Average 2": 28,
+   "X": 44,
+   "Y-Bar": 0.5,
+   "X-Colum": 0.8
+ },
+ {
+   "Column": "North America",
+   "1995-99 Average": 22,
+   "2011-15 Average": 28,
+   "Column2": "Europe and Central Asia",
+   "1995-99 Average 2": 20,
+   "2011-15 Average 2": 11,
+   "X": 65,
+   "Y-Bar": 0.5,
+   "X-Colum": 0.8
+ },
+ {
+   "Column": "South America and Caribbean",
+   "1995-99 Average": 9,
+   "2011-15 Average": 10,
+   "Column2": "South America and Caribbean",
+   "1995-99 Average 2": 9,
+   "2011-15 Average 2": 10,
+   "X": 79.5,
+   "Y-Bar": 0.5,
+   "X-Colum": 0.8
+ },
+ {
+   "Column": "Developing East Asia",
+   "1995-99 Average": 8,
+   "2011-15 Average": 23,
+   "Column2": "Developing East Asia",
+   "1995-99 Average 2": 8,
+   "2011-15 Average 2": 23,
+   "X": 88,
+   "Y-Bar": 0.5,
+   "X-Colum": 0.8
+ },
+ {
+   "Column": "South Asia",
+   "1995-99 Average": 1,
+   "2011-15 Average": 1,
+   "Column2": "Middle East and North Africa",
+   "1995-99 Average 2": 6,
+   "2011-15 Average 2": 5,
+   "X": 95,
+   "Y-Bar": 0.5,
+   "X-Colum": 0.8
+ },
+ {
+   "Column": "Sub-Saharan Africa",
+   "1995-99 Average": 1,
+   "2011-15 Average": 2,
+   "Column2": "Sub-Saharan Africa",
+   "1995-99 Average 2": 1,
+   "2011-15 Average 2": 2,
+   "X": 98.5,
+   "Y-Bar": 0.5,
+   "X-Colum": 0.8
+ },
+ {
+   "Column": "Middle East and North Africa",
+   "1995-99 Average": 6,
+   "2011-15 Average": 5,
+   "Column2": "South Asia",
+   "1995-99 Average 2": 1,
+   "2011-15 Average 2": 1,
+   "X": 99.5,
+   "Y-Bar": 0.5,
+   "X-Colum": 0.8
+ }
+]
